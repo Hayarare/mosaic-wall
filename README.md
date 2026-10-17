@@ -120,7 +120,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-**Linux with fish shell** (fish cannot read the plain `activate` script)
+**Linux with fish shell** (fish cannot read the `activate` script, because it's stupid)
 
 ```fish
 python3 -m venv venv
