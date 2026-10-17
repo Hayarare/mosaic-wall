@@ -65,7 +65,7 @@ sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-releas
 sudo dnf install mpv-libs python3 xcb-util-cursor
 ```
 
-**Check that libmpv is installed.** This should print a line containing `libmpv.so.2`:
+**Check that libmpv is installed:** This should print a line containing `libmpv.so.2`:
 
 ```bash
 ldconfig -p | grep libmpv
@@ -73,13 +73,13 @@ ldconfig -p | grep libmpv
 
 On Arch, the `mpv` package already includes libmpv, so there is nothing else to install.
 
-**Minimal or server installs (Debian/Ubuntu).** If Qt later complains about missing xcb libraries, also install:
+**Minimal or server installs (Debian/Ubuntu):** If Qt later complains about missing xcb libraries, also install:
 
 ```bash
 sudo apt install libegl1 libxkbcommon-x11-0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-shape0
 ```
 
-**Which desktops work.** The app embeds mpv into Qt windows through X11, so on Wayland it runs through XWayland.
+**Which desktops work:** The app embeds mpv into Qt windows through X11, so on Wayland it runs through XWayland.
 
 | Desktop | Notes |
 | --- | --- |
