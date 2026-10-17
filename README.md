@@ -161,17 +161,12 @@ pip install -r requirements.txt
 
 ### Step 5: Run it
 
-**Linux**
+**Linux / Windows**
 
 ```bash
 python mosaic_wall.py
 ```
 
-**Windows**
-
-```powershell
-python mosaic_wall.py
-```
 
 Put paths with spaces in quotes. Use `pythonw mosaic_wall.py` on Windows to run without a console window.
 
