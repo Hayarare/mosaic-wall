@@ -397,5 +397,7 @@ GPU and the output of `python --version` when reporting a bug.
 
 Things that are used in this python script
 [mpv](https://mpv.io)
+
 [python-mpv](https://github.com/jaseg/python-mpv) 
+
 [PySide6](https://doc.qt.io/qtforpython-6/)
