@@ -356,12 +356,12 @@ the audio. On Windows, [install ffmpeg](https://ffmpeg.org/download.html) first 
 
 ## Troubleshooting
 
-**`Could not load mpv`**
+**Could not load mpv**
 libmpv was not found. Reinstall it (Step 2). On Windows, make sure `libmpv-2.dll` sits next to
 `mosaic_wall.py` and that Python and the DLL are both 64-bit. On Linux, run
 `ldconfig -p | grep libmpv` to check it is installed.
 
-**`ModuleNotFoundError: No module named 'PySide6'`**
+**ModuleNotFoundError: No module named 'PySide6'**
 The venv is not active, or the packages are not installed. Activate it (Step 3) and run
 `pip install -r requirements.txt`.
 
@@ -391,7 +391,7 @@ Lower the tile count, compress the videos to a smaller resolution, or set `MOSAI
 
 ## Contributing
 
-If you wish to initiate issues and pull request, please include your operating system, desktop environment,
+If you wish to initiate issues and pull requests, please include your operating system, desktop environment,
 GPU and the output of `python --version` when reporting a bug.
 
 ## Credits
