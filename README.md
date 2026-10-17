@@ -1,4 +1,5 @@
 A multi-video wall player for the desktop, built on libmpv and PySide6.
+
 Play multiple videos, GIFs and images at once in a single window.
 
 ## Contents
