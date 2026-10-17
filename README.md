@@ -22,7 +22,7 @@ Play multiple videos, GIFs and images at once in a single window.
 | Alpine and other musl-based Linux | Not supported (PySide6 has no wheels for musl) |
 
 "Not tested" just means I haven't tested it on my computer, because I am lazy, so there's no 
-confirmation on whether or not it works on that platform. Please open an issue with your results.
+confirmation on whether or not it works on that platform. Please open an issue with your results if you do test it.
 
 ## Installation
 
