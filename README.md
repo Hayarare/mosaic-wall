@@ -4,7 +4,6 @@ Play multiple videos, GIFs and images at once in a single window.
 
 ## Contents
 
-- [Features](#features)
 - [Compatibility](#compatibility)
 - [Installation](#installation) (Linux, Windows)
 - [Usage](#usage) (mouse, keyboard, toolbar reference, saved settings)
