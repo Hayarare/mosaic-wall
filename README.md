@@ -165,16 +165,12 @@ pip install -r requirements.txt
 
 ```bash
 python mosaic_wall.py
-python mosaic_wall.py ~/Videos
-python mosaic_wall.py clip1.mp4 clip2.mkv photos/
 ```
 
 **Windows**
 
 ```powershell
 python mosaic_wall.py
-python mosaic_wall.py "D:\My Videos"
-python mosaic_wall.py clip1.mp4 clip2.mkv photos\
 ```
 
 Put paths with spaces in quotes. Use `pythonw mosaic_wall.py` on Windows to run without a console window.
