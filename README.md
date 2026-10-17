@@ -57,7 +57,7 @@ Install libmpv and the Qt xcb cursor library. Find the distro you're using below
 > Package names for openSUSE and Gentoo are from memory and may differ between releases. If one is not
 > found, search your package manager for "mpv" and install the package that provides `libmpv.so.2`.
 
-**Fedora notes.** Fedora's own repositories do not ship mpv's library because of codec licensing, so
+**Fedora notes:** Fedora's own repositories do not ship mpv's library because of codec licensing, so
 enable RPM Fusion Free first, then install:
 
 ```bash
