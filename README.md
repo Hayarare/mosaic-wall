@@ -16,7 +16,7 @@ Play multiple videos, GIFs and images at once in a single window.
 | --- | --- |
 | Arch-based Linux (Arch, CachyOS, Manjaro, EndeavourOS) with KDE Plasma 6 on Wayland (through XWayland) | Tested |
 | Other Linux distributions on X11 or Wayland (through XWayland) | Expected to work, not tested |
-| Windows 10 / 11 (64-bit) | Expected to work, not tested |
+| Windows 10 / 11 (64-bit) | Tested |
 | macOS | Not supported (embedding mpv into Qt windows is unreliable there) |
 | Alpine and other musl-based Linux | Not supported (PySide6 has no wheels for musl) |
 
